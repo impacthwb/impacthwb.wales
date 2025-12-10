@@ -6,20 +6,20 @@ title: ImpactHwb
 <div class="hero" id="home">
   <h1>Welcome to Impact Hwb</h1>
   <p class="hero-tagline">
-    Research, evaluation and advisory for local and national government, higher education and charities.
+    Research, evaluation and advisory for local and national government, higher education and charities. We specialise in mixed-methods research, accessible evaluation and co-designed approaches that centre participants, particularly children and young people and disadvantaged or seldom-reached groups.
+
   </p>
 
-  <p class="hero-meta">
-    We help organisations generate robust, actionable evidence that improves policy, practice and outcomes.
-  </p>
+  
 
   <div class="hero-actions">
     <a href="#contact" class="btn-primary">Contact us</a>  
     <a href="#services" class="btn-secondary">Explore our services</a>
+    <a href="#case-studies" class="btn-secondary">Read our case studies</a>
+
   </div>
 
   <div class="highlight-box">
-    We specialise in mixed-methods research, accessible evaluation and co-designed approaches that centre participants, particularly children and young people and disadvantaged or seldom-reached groups.
   </div>
 </div>
 
