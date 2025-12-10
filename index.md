@@ -3,21 +3,31 @@ layout: default
 title: ImpactHwb
 ---
 
-# ImpactHwb {#home}
+<div class="hero" id="home">
+  <h1>ImpactHwb</h1>
+  <p class="hero-tagline">
+    Research, evaluation and advisory for local and national government, higher education and charities.
+  </p>
 
-ImpactHwb is a research, evaluation and advisory hub working with:
+  <p class="hero-meta">
+    We help organisations generate robust, actionable evidence that improves policy, practice and outcomes.
+  </p>
 
-- Local and national government  
-- Higher education  
-- Charities and voluntary organisations  
+  <div class="hero-actions">
+    <a href="#contact" class="btn-primary">Contact us</a>
+    <a href="#services" class="btn-secondary">Explore our services</a>
+  </div>
 
-Our mission is to generate robust, actionable evidence that helps organisations make better decisions and create positive social change.
+  <div class="highlight-box">
+    We specialise in mixed-methods research, accessible evaluation and co-designed approaches that centre participants, particularly children and young people.
+  </div>
+</div>
 
 ---
 
 ## Services {#services}
 
-We offer a flexible mix of research, evaluation and advisory support.  
+We offer a flexible mix of research, evaluation and advisory support.
 
 <div class="services-grid">
 
@@ -85,5 +95,5 @@ We are certified to **ISO 9001 (quality management)** and **ISO 27001 (informati
 
 We’d love to hear from you.
 
-**Email:** _add your email address here_  
-**Phone:** _add your phone number here_
+**Email:** info@impacthwb.wales  
+**Phone/Whatsapp:** 07392 779 853
