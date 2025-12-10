@@ -1,11 +1,28 @@
 ---
 layout: default
-title: Simple Markdown Page
+title: ImpactHwb
 ---
-# Welcome
 
-This is a simple page written in Markdown.
+# Welcome {#welcome}
 
-- Feature 1
-- Feature 2
-- Feature 3
+Your welcome text goes here.
+
+---
+
+## About {#about}
+
+Your about section goes here.
+
+---
+
+## Services {#services}
+
+- Service 1  
+- Service 2  
+- Service 3  
+
+---
+
+## Contact {#contact}
+
+Your contact details here.
