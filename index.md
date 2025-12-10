@@ -19,8 +19,7 @@ title: ImpactHwb
 
   </div>
 
-  <div class="highlight-box">
-  </div>
+
 </div>
 
 ---
