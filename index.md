@@ -74,11 +74,7 @@ Our work is grounded in values of equality, social justice and meaningful partic
 
 ## Our credentials {#credentials}
 
-ImpactHwb is led by a social scientist with a PhD and more than 15 years’ experience across:
-
-- Higher education  
-- UK government  
-- Charities and non-profits  
+ImpactHwb is led by a PhD qualified social scientist with more than 15 years’ experience across higher education, UK government and bodies, and charities.
 
 We combine this with a wider network of consultants bringing expertise in:
 
