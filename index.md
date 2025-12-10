@@ -4,7 +4,7 @@ title: ImpactHwb
 ---
 
 <div class="hero" id="home">
-  <h1>ImpactHwb</h1>
+  <h1>Welcome to Impact Hwb</h1>
   <p class="hero-tagline">
     Research, evaluation and advisory for local and national government, higher education and charities.
   </p>
@@ -91,9 +91,41 @@ We are certified to **ISO 9001 (quality management)** and **ISO 27001 (informati
 
 ---
 
+## Case studies {#case-studies}
+
+Here are two examples of the kind of work we do.
+
+<div class="case-studies-grid">
+
+  <div class="case-card">
+    <h3>Strengthening evaluation for a national education programme</h3>
+    <p class="case-meta">National public body · Multi-year programme</p>
+    <p>
+      We worked with partners to co-design a monitoring, evaluation and learning framework for a large-scale
+      education initiative, involving thousands of young people and multiple delivery organisations. The work
+      included a logic model, outcomes framework, accessible tools for practitioners and clear reporting to
+      senior decision-makers.
+    </p>
+  </div>
+
+  <div class="case-card">
+    <h3>Participant-centred insight for a local charity</h3>
+    <p class="case-meta">Local charity · Children and young people</p>
+    <p>
+      A small youth charity asked us to help understand how their services were experienced by children and
+      families. We developed inclusive, age-appropriate methods, supported staff to gather feedback confidently,
+      and produced practical recommendations that fed directly into service design.
+    </p>
+  </div>
+
+</div>
+
+---
+
 ## Contact {#contact}
 
 We’d love to hear from you.
 
-**Email:** yourname@impacthwb.wales  
-**Phone:** 01234 567890
+- **Email:** <a href="mailto:info@impacthwb.wales">info@impacthwb.wales</a>  
+- **Phone / WhatsApp:** 07392 779 853  
+- Or <a href="https://wa.me/447392779853" target="_blank" rel="noopener">talk to us on WhatsApp</a>

@@ -68,6 +68,10 @@
       text-decoration: none;
     }
 
+    .page a:hover {
+      text-decoration: underline;
+    }
+
     /* ---------- Anchor offset so nav doesn’t hide titles ---------- */
 
     h1[id], h2[id], h3[id], .hero[id] {
@@ -133,10 +137,12 @@
       font-weight: 600;
       font-size: 0.95rem;
       border: 1px solid var(--green-dark);
+      text-decoration: none;
     }
 
     .btn-primary:hover {
       background: var(--green-dark);
+      text-decoration: none;
     }
 
     .btn-secondary {
@@ -148,10 +154,12 @@
       border: 1px solid #d1d5db;
       font-weight: 500;
       font-size: 0.95rem;
+      text-decoration: none;
     }
 
     .btn-secondary:hover {
       border-color: var(--green);
+      text-decoration: none;
     }
 
     /* ---------- Navigation bar ---------- */
@@ -197,6 +205,7 @@
       font-weight: 500;
       position: relative;
       padding-bottom: 0.1rem;
+      text-decoration: none;
     }
 
     .nav-links a::after {
@@ -263,6 +272,34 @@
       margin-bottom: 0.6rem;
     }
 
+    /* ---------- Case studies grid ---------- */
+
+    .case-studies-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.4rem;
+      margin: 1.3rem 0 0.5rem;
+    }
+
+    @media (max-width: 700px) {
+      .case-studies-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .case-card {
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 1.1rem 1.2rem 1.2rem;
+      background: #f9fafb;
+    }
+
+    .case-meta {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-bottom: 0.4rem;
+    }
+
     /* ---------- Footer ---------- */
 
     footer.site-footer {
@@ -314,6 +351,7 @@
         <a href="#services">Services</a>
         <a href="#approach">Our approach</a>
         <a href="#credentials">Our credentials</a>
+        <a href="#case-studies">Case studies</a>
         <a href="#contact">Contact</a>
       </div>
     </div>
