@@ -95,5 +95,5 @@ We are certified to **ISO 9001 (quality management)** and **ISO 27001 (informati
 
 We’d love to hear from you.
 
-**Email:** info@impacthwb.wales  
-**Phone/Whatsapp:** 07392 779 853
+**Email:** yourname@impacthwb.wales  
+**Phone:** 01234 567890
