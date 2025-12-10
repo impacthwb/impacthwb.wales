@@ -196,16 +196,21 @@
     .nav-links {
       display: flex;
       flex-wrap: wrap;
-      gap: 1rem;
-      font-size: 0.95rem;
+      gap: 1.6rem;  /* MORE SPACE BETWEEN ITEMS */
+      font-size: 1rem;
     }
 
     .nav-links a {
       color: var(--text-main);
       font-weight: 500;
       position: relative;
-      padding-bottom: 0.1rem;
+      padding-bottom: 0.2rem;
       text-decoration: none;
+      transition: color 0.2s ease;   /* SMOOTH COLOUR FADE */
+    }
+
+    .nav-links a:hover {
+      color: var(--green-dark);
     }
 
     .nav-links a::after {
@@ -216,7 +221,7 @@
       width: 0;
       height: 2px;
       background: var(--green);
-      transition: width 0.18s ease-out;
+      transition: width 0.25s ease;   /* SMOOTH UNDERLINE ANIMATION */
     }
 
     .nav-links a:hover::after {

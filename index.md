@@ -14,12 +14,12 @@ title: ImpactHwb
   </p>
 
   <div class="hero-actions">
-    <a href="#contact" class="btn-primary">Contact us</a>
+    <a href="#contact" class="btn-primary">Contact us</a>  
     <a href="#services" class="btn-secondary">Explore our services</a>
   </div>
 
   <div class="highlight-box">
-    We specialise in mixed-methods research, accessible evaluation and co-designed approaches that centre participants, particularly children and young people.
+    We specialise in mixed-methods research, accessible evaluation and co-designed approaches that centre participants, particularly children and young people and disadvantaged or seldom-reached groups.
   </div>
 </div>
 
@@ -128,4 +128,4 @@ We’d love to hear from you.
 
 - **Email:** <a href="mailto:info@impacthwb.wales">info@impacthwb.wales</a>  
 - **Phone / WhatsApp:** 07392 779 853  
-- Or <a href="https://wa.me/447392779853" target="_blank" rel="noopener">talk to us on WhatsApp</a>
+- Or <a href="https://wa.me/447392779853" target="_blank" rel="noopener">message us on WhatsApp</a>
